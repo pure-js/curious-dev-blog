@@ -20,14 +20,14 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to my personal<br />Blog
 	</h1>
 
-	<h2>
+	<!-- <h2>
 		try editing <strong>src/routes/index.svelte</strong>
-	</h2>
+	</h2> -->
 
-	<Counter />
+	<!-- <Counter /> -->
 </section>
 
 <style>

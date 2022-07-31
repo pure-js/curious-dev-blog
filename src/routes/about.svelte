@@ -20,9 +20,13 @@
 </svelte:head>
 
 <div class="content">
-	<h1>About this app</h1>
+	<h1>About this Blog</h1>
 
 	<p>
+		Developer blog
+	</p>
+
+	<!-- <p>
 		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
 		following into your command line and following the prompts:
 	</p>
@@ -38,7 +42,7 @@
 	<p>
 		The <a href="/todos">TODOs</a> page illustrates SvelteKit's data loading and form handling. Try using
 		it with JavaScript disabled!
-	</p>
+	</p> -->
 </div>
 
 <style>
